@@ -3,10 +3,12 @@ RoomBridge – AI-Powered Room & Roommate Matching Platform
 RoomBridge is a full-stack web platform designed to simplify room and roommate discovery for students and working professionals relocating to new cities. The platform leverages AI-driven matching algorithms, geolocation services, and real-time communication to connect users with the most compatible rooms and roommates.
 
 🚀 Features
+
 🏠 Smart Room & Roommate Matching
 AI-powered compatibility scoring (0–100)
 Personalized recommendations based on location, profession, college, hometown, and preferences
 Smart feed with categorized recommendations
+
 🤖 AI Assistant
 Gemini AI-powered chatbot for platform guidance
 Instant support and query resolution
