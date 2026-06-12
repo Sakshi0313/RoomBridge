@@ -13,28 +13,35 @@ Smart feed with categorized recommendations
 Gemini AI-powered chatbot for platform guidance
 Instant support and query resolution
 Context-aware assistance for users
+
 📍 Location Intelligence
 Google Maps Geocoding API integration
 Real-time distance calculations
 Nearby room recommendations
+
 🚨 Emergency Listings
 Dedicated urgent room postings
 Auto-expiration after 72 hours
 Notification alerts for expiring listings
+
 💬 Real-Time Communication
 Instant messaging between users
 Real-time notifications
 Persistent chat history
+
 ✅ Identity Verification
 Aadhaar verification
 PAN verification
 Student ID verification
 Live selfie verification
+
 🛡️ Trust & Safety
 Ratings and reviews system
 User reporting and moderation
 Automated flagging and temporary bans
 Admin dashboard for platform management
+
+
 🛠️ Tech Stack
 Frontend
 React.js
@@ -52,6 +59,8 @@ Firebase Security Rules
 AI & APIs
 Google Gemini AI
 Google Maps Geocoding API
+
+
 🏗️ System Architecture
 React + TypeScript Frontend
             │
@@ -64,6 +73,8 @@ AI Matching Engine
             │
             ├── Gemini AI API
             └── Google Maps API
+
+            
 ⭐ Key Features
 Feature	Description
 AI Match Score	Personalized compatibility score for every listing
@@ -74,12 +85,16 @@ Real-Time Chat	Instant communication between users
 Notifications	Alerts for messages, matches, and verification
 Verification System	Secure identity verification
 Admin Dashboard	Platform monitoring and moderation
+
+
 🔐 Security Features
 Firebase Authentication
 Role-Based Access Control
 Protected User Data
 Verification Workflows
 Moderation & Reporting System
+
+
 ⚙️ Installation
 Clone Repository
 git clone https://github.com/Sakshi0313/RoomBridge.git
